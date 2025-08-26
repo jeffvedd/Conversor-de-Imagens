@@ -1,29 +1,20 @@
-{
-  "expo": {
-    "name": "conversor-de-imagens-",
-    "slug": "snack-802f79be-d993-42d4-bbf7-aca2d6997d59",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+"name": "Conversor de Imagens",
+  "slug": "Conversor-de-Imagens-",
+  "version": "1.0.0",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "ios": {
+    "bundleIdentifier": "com.conversordeimagens.app"
+  },
+  "android": {
+    "package": "com.conversordeimagens.app"
+  },
+  "sdkVersion": "53.0.0",
+  "extra": {
+    "eas": {
+      "projectId": ""
     }
   }
 }
