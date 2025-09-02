@@ -10,15 +10,20 @@
     "icon": "./assets/conversordeimagens.png",
     "ios": {
       "bundleIdentifier": "com.conversordeimagens.app",
-      "icon": "./assets/conversordeimagens.png"
+      "icon": "./conversordeimagens.png"
     },
     "android": {
       "package": "com.conversordeimagens.app",
-      "icon": "./conversordeimagens.png",
+      "icon": "./assets/conversordeimagens.png",
       "adaptiveIcon": {
         "foregroundImage": "./conversordeimagens.png",
         "backgroundColor": "#ffffff"
       }
+    },
+    "splash": {
+      "image": "./conversordeimagens.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
     },
     "sdkVersion": "53.0.0",
     "extra": {
