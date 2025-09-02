@@ -7,14 +7,14 @@
       "ios",
       "android"
     ],
-    "icon": "./assets/conversordeimagens.png",
+    "icon": "./conversordeimagens.png",
     "ios": {
       "bundleIdentifier": "com.conversordeimagens.app",
       "icon": "./conversordeimagens.png"
     },
     "android": {
       "package": "com.conversordeimagens.app",
-      "icon": "./assets/conversordeimagens.png",
+      "icon": "./conversordeimagens.png",
       "adaptiveIcon": {
         "foregroundImage": "./conversordeimagens.png",
         "backgroundColor": "#ffffff"
