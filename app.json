@@ -1,23 +1,30 @@
 {
   "expo": {
-"name": "Conversor de Imagens",
-  "slug": "conversor-de-imagens-",
-  "version": "1.0.0",
-  "platforms": [
-    "ios",
-    "android"
-  ],
-  "ios": {
-    "bundleIdentifier": "com.conversordeimagens.app"
-  },
-  "android": {
-    "package": "com.conversordeimagens.app"
-  },
-  "sdkVersion": "53.0.0",
-  "extra": {
-    "eas": {
-      "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
+    "name": "Conversor de Imagens",
+    "slug": "conversor-de-imagens-",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "icon": "./assets/conversordeimagens.png",
+    "ios": {
+      "bundleIdentifier": "com.conversordeimagens.app",
+      "icon": "./assets/conversordeimagens.png"
+    },
+    "android": {
+      "package": "com.conversordeimagens.app",
+      "icon": "./assets/conversordeimagens.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/conversordeimagens.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "sdkVersion": "53.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
+      }
     }
   }
- }
 }
