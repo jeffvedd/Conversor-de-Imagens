@@ -9,11 +9,11 @@
     ],
     "icon": "./conversordeimagens.png",
     "ios": {
-      "bundleIdentifier": "com.conversordeimagens.app",
+      "bundleIdentifier": "com.jeffveddconversordeimagens.app",
       "icon": "./conversordeimagens.png"
     },
     "android": {
-      "package": "com.conversordeimagens.app",
+      "package": "com.jeffveddconversordeimagens.app",
       "icon": "./conversordeimagens.png",
       "adaptiveIcon": {
         "foregroundImage": "./conversordeimagens.png",
