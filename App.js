@@ -49,8 +49,7 @@ const MediaConverter = () => {
         await GoogleAds.requestTrackingAuthorization();
         await GoogleAds.initialize({
           // 👇 Substitua pelo seu App ID do AdMob (obrigatório)
-          androidAppId: 'ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY',
-          iosAppId: 'ca-app-pub-XXXXXXXXXXXXXXXX~ZZZZZZZZZZ',
+          androidAppId: 'ca-app-pub-5461017538385057~8037912313',
         });
       } catch (e) {
         console.warn('Erro ao inicializar Google Ads:', e);
