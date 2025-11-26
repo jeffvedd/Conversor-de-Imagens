@@ -1,17 +1,16 @@
 {
   "expo": {
     "name": "Conversor de Imagens",
-    "slug": "conversor-de-imagens",
+    "slug": "conversor-de-imagens-",
     "version": "1.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "icon": "./conversordeimagens.png",
     "ios": {
       "bundleIdentifier": "com.jeffveddconversordeimagens.app",
-      "icon": "./conversordeimagens.png",
-      "infoPlist": {
-        "NSPhotoLibraryAddUsageDescription": "Precisamos salvar suas imagens convertidas na galeria.",
-        "NSPhotoLibraryUsageDescription": "Usamos a galeria para selecionar e salvar imagens convertidas."
-      }
+      "icon": "./conversordeimagens.png"
     },
     "android": {
       "package": "com.jeffveddconversordeimagens.app",
@@ -19,15 +18,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./conversordeimagens.png",
         "backgroundColor": "#ffffff"
-      },
-      "permissions": ["MEDIA_LIBRARY"],
-      "gradleVersion": "8.13"
+      }
     },
     "splash": {
       "image": "./conversordeimagens.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "sdkVersion": "53.0.0",
     "extra": {
       "eas": {
         "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
