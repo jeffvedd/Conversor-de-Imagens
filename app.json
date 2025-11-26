@@ -1,42 +1,35 @@
-{
-  "expo": {
-    "name": "Conversor de Imagens",
-    "slug": "conversor-de-imagens-",
-    "version": "1.0.0",
-    "platforms": ["ios", "android"],
-    "icon": "./conversordeimagens.png",
-    "ios": {
-      "bundleIdentifier": "com.jeffveddconversordeimagens.app",
-      "icon": "./conversordeimagens.png"
-    },
-    "android": {
-      "package": "com.jeffveddconversordeimagens.app",
-      "icon": "./conversordeimagens.png",
-      "adaptiveIcon": {
-        "foregroundImage": "./conversordeimagens.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "splash": {
-      "image": "./conversordeimagens.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "sdkVersion": "53.0.0",
-    "extra": {
-      "eas": {
-        "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
-      }
-    },
-    "plugins": [
-      [
-        "expo-ads-google-ads",
-        {
-          "androidAppId": "ca-app-pub-3940256099942544~3347511713",
-          "iosAppId": "ca-app-pub-3940256099942544~1458002511",
-          "userTrackingPermission": "Este app usa anúncios para continuar gratuito."
-        }
-      ]
-    ]
+Adicione o add mob no cód fonte{
+"expo": {
+"name": "Conversor de Imagens",
+"slug": "conversor-de-imagens-",
+"version": "1.0.0",
+"platforms": [
+"ios",
+"android"
+],
+"icon": "./conversordeimagens.png",
+"ios": {
+"bundleIdentifier": "com.jeffveddconversordeimagens.app",
+"icon": "./conversordeimagens.png"
+},
+"android": {
+"package": "com.jeffveddconversordeimagens.app",
+"icon": "./conversordeimagens.png",
+"adaptiveIcon": {
+"foregroundImage": "./conversordeimagens.png",
+"backgroundColor": "#ffffff"
+}
+},
+"splash": {
+"image": "./conversordeimagens.png",
+"resizeMode": "contain",
+"backgroundColor": "#ffffff"
+},
+"sdkVersion": "53.0.0",
+"extra": {
+"eas": {
+"projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
+     }
+   }
   }
 }
