@@ -13,7 +13,7 @@
     "expo-document-picker": "~14.0.0",
     "expo-file-system": "~19.0.0",
     "expo-font": "~13.0.1",
-    "expo-image-manipulator": "~14.0.2",
+    "expo-image-manipulator": "~15.0.0",
     "expo-linking": "~7.0.3",
     "expo-media-library": "~18.0.0",
     "expo-router": "~4.0.21",
