@@ -1,34 +1,33 @@
-"expo": {
-"name": "Conversor de Imagens",
-"slug": "conversor-de-imagens-",
-"version": "1.0.0",
-"platforms": [
-"ios",
-"android"
-],
-"icon": "./conversordeimagens.png",
-"ios": {
-"bundleIdentifier": "com.jeffveddconversordeimagens.app",
-"icon": "./conversordeimagens.png"
-},
-"android": {
-"package": "com.jeffveddconversordeimagens.app",
-"icon": "./conversordeimagens.png",
-"adaptiveIcon": {
-"foregroundImage": "./conversordeimagens.png",
-"backgroundColor": "#ffffff"
-}
-},
-"splash": {
-"image": "./conversordeimagens.png",
-"resizeMode": "contain",
-"backgroundColor": "#ffffff"
-},
-"sdkVersion": "53.0.0",
-"extra": {
-"eas": {
-"projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
-     }
+{
+  "expo": {
+    "name": "Conversor de Imagens",
+    "slug": "conversor-de-imagens-",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "icon": "./conversordeimagens.png",
+    "ios": {
+      "bundleIdentifier": "com.jeffveddconversordeimagens.app",
+      "icon": "./conversordeimagens.png"
+    },
+    "android": {
+      "package": "com.jeffveddconversordeimagens.app",
+      "icon": "./conversordeimagens.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./conversordeimagens.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "splash": {
+      "image": "./conversordeimagens.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "sdkVersion": "53.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
+      }
     }
   }
+}
 
