@@ -22,7 +22,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "sdkVersion": "53.0.0",
+    "sdkVersion": "53.0.3",
     "extra": {
       "eas": {
         "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
