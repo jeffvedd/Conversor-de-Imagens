@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Conversor de Imagens",
-    "slug": "conversor-de-imagens",
+    "slug": "conversor-de-imagens-",
     "version": "1.0.0",
     "sdkVersion": "53.0.0",
     "platforms": ["ios", "android"],
