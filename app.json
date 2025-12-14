@@ -20,10 +20,17 @@
         "backgroundColor": "#ffffff"
       },
 
-      "config": {
-        "googleMobileAdsAppId": "ca-app-pub-5461017538385057~8037912313"
-      }
-    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-5461017538385057~8037912313",
+          "delayAppMeasurementInit": true
+        }
+      ]
+    ]
+  }
+}
 
     "splash": {
       "image": "./conversordeimagens.png",
