@@ -3,20 +3,19 @@
     "name": "Conversor de Imagens",
     "slug": "conversor-de-imagens-",
     "version": "1.0.0",
-    "sdkVersion": "53.0.0",
     "platforms": ["ios", "android"],
-    "icon": "./conversordeimagens.png",
+    "icon": "./assets/conversordeimagens.png",
 
     "ios": {
       "bundleIdentifier": "com.jeffveddconversordeimagens.app",
-      "icon": "./conversordeimagens.png"
+      "icon": "./assets/conversordeimagens.png"
     },
 
     "android": {
       "package": "com.jeffveddconversordeimagens.app",
-      "icon": "./conversordeimagens.png",
+      "icon": "./assets/conversordeimagens.png",
       "adaptiveIcon": {
-        "foregroundImage": "./conversordeimagens.png",
+        "foregroundImage": "./assets/conversordeimagens.png",
         "backgroundColor": "#ffffff"
       }
     },
@@ -32,7 +31,7 @@
     ],
 
     "splash": {
-      "image": "./conversordeimagens.png",
+      "image": "./assets/conversordeimagens.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
