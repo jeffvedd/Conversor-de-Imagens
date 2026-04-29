@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Image Converter",
+    "slug": "image-converter",
+    "version": "1.0.1",
+    "platforms": ["ios", "android"],
+    "icon": "./imageconverter.png",
+    "ios": {
+      "bundleIdentifier": "com.jeffveddconversordeimagens.app",
+      "icon": "./imageconverter.png"
+    },
+    "android": {
+      "package": "com.jeffveddconversordeimagens.app",
+      "icon": "./imageconverter.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./imageconverter.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "splash": {
+      "image": "./imageconverter.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "sdkVersion": "53.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "3c78f2a6-3626-4262-9fac-b7c66dd2e081"
+      }
+    }
+  }
+}
