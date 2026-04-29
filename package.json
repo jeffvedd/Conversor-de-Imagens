@@ -20,8 +20,7 @@
     "expo-document-picker": "~13.1.6",
     "expo-image-manipulator": "~13.1.7",
 
-    "react-native-paper": "4.9.2",
-    "react-native-google-mobile-ads": "^16.0.1"
+    "react-native-paper": "4.9.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
