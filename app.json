@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Image Converter",
-    "slug": "image-converter",
+    "slug": "conversor-de-imagens-",
     "version": "1.0.2",
     "platforms": ["ios", "android"],
     "icon": "./imageconverter.png",
